@@ -1,0 +1,1 @@
+# odoo_delete_company_by_sql
